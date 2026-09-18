@@ -8,13 +8,10 @@
 
 ## 🖼️ لقطة من التقرير
 
+![Sales Page](screenshots/Screenshot%202026-09-18%20131704.png)
+![Profit Page](screenshots/Screenshot%202026-09-18%20164140.png)
+![Details Page](screenshots/Screenshot%202026-09-18%20164224.png)
 
-```
-screenshots/Screenshot 2026-09-18 131704.png
-screenshots/Screenshot 2026-09-18 164140.png
-screenshots/Screenshot 2026-09-18 164224.png
-
-```
 ## 🧭 صفحات التقرير
 
 يحتوي الملف على ثلاث صفحات رئيسية:

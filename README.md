@@ -10,7 +10,10 @@
 
 
 ```
-\screenshots
+screenshots/Screenshot 2026-09-18 131704.png
+screenshots/Screenshot 2026-09-18 164140.png
+screenshots/Screenshot 2026-09-18 164224.png
+
 ```
 ## 🧭 صفحات التقرير
 

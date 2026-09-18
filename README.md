@@ -10,8 +10,7 @@
 
 
 ```
-!(screenshots)
-
+\screenshots
 ```
 ## 🧭 صفحات التقرير
 

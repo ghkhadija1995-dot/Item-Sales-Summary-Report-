@@ -8,11 +8,9 @@
 
 ## 🖼️ لقطة من التقرير
 
-> ضع صورة اللقطة داخل مجلد `screenshots/` في المستودع وحدّث الرابط أدناه:
 
 ```
-![Item Sales Summary Report](screenshots/dashboard.png)
-```
+screenshots```
 
 ## 🧭 صفحات التقرير
 
